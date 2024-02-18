@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HomeWhiz</string>
+    <string name="makineBaslik">Wash Machine</string>
+    <string name="makineAdi">Neo</string>
+    <string name="favoriYazisi">Favourites</string>
+    <string name="programYazisi">Choose Program</string>
+    <string name="sihirbazYazisi">Wizard</string>
+    <string name="tamamlanmaSüresi">1 Hour 25 minutes</string>
+    <string name="tamamlanmaYazisi">Remaining Time</string>
+    <string name="butonYazisi">Run</string>
+    <string name="seciliProgram">Chosen Program -> Cottons</string>
+    <string name="programDetayları">800 Cycles</string>
+    <string name="sıcaklık">40 Celsius</string>
+    <string name="deterjanTürü">Liquid Detergent</string>
+
+</resources>

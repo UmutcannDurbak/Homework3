@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="makineBaslik">Çamaşır Makinesi</string>
+    <string name="makineAdi">Neo</string>
+    <string name="favoriYazisi">Favoriler</string>
+    <string name="programYazisi">Program Seçici</string>
+    <string name="sihirbazYazisi">Sihirbaz</string>
+    <string name="tamamlanmaSüresi">1 Saat 25 Dakika</string>
+    <string name="tamamlanmaYazisi">Kalan Süre</string>
+    <string name="butonYazisi">Çalıştır</string>
+    <string name="seciliProgram">Seçili Program -> Pamuklular</string>
+    <string name="programDetayları">800 Devir</string>
+    <string name="sıcaklık">40 Derece</string>
+    <string name="deterjanTürü">Sıvı Deterjan</string>
+
+</resources>
